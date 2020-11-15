@@ -4,7 +4,7 @@ ROUTH HURWITZ SOLUTION
  
  
  
-EC540: Control System \n
+EC540: Control System '\n'
 A Report on \n
 Problem statement Solution
 By applying Routh-Hurwitz test, find how many roots of the polynomial a(s) =
