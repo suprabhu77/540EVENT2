@@ -4,8 +4,8 @@ ROUTH HURWITZ SOLUTION
  
  
  
-EC540: Control System
-A Report on 
+EC540: Control System \n
+A Report on \n
 Problem statement Solution
 By applying Routh-Hurwitz test, find how many roots of the polynomial a(s) =
 4s^4 + 12s^3 + 25s^2 + 30s + 60 = 0 are left of -1. Show analytically and then verify
